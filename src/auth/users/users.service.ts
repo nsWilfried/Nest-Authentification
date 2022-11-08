@@ -5,7 +5,7 @@ export class UsersService {
 
     private readonly users  = [
         {
-            username: "ehllo", 
+            username: "hello", 
             password: "angularmaterial"
         }
     ]
